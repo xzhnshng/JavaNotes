@@ -1,0 +1,2 @@
+# JavaNotes
+For quick check
